@@ -28,11 +28,12 @@
 |1. Bresenham's Line Drawing algo      |  c++         |
 |2. Bresenham's Circle Drawing algo    |  c++         |
 |3. Draw Cube                          |  c++         |
-|4. DDA Line Drawing algo              |  c++         |
-|5. generate Line                      |  c++         |
-|6. generate Circle                    |  c++         |
-|7. Midpoint Line algo                 |  c++         |
-|8. Draw Square                        |  c++         |
+|4.Draw Traingle                       |  c++         |
+|5. DDA Line Drawing algo              |  c++         |
+|6. generate Line                      |  c++         |
+|7. generate Circle                    |  c++         |
+|8. Midpoint Line algo                 |  c++         |
+|9. Draw Square                        |  c++         |
 
 
 
