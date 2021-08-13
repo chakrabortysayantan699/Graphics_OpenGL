@@ -10,9 +10,9 @@
 
 | Program (2D_transformation)          | language used|
 |--------------------------------------|--------------|
-|2D_rotation                           |  c++         |
-|2D_Scale                              |  c++         |
-|2D_rotation                           |  c++         |
+|[2D_rotation](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/2D_transformation/rotation.cpp)                           |  c++         |
+|[2D_Scale](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/2D_transformation/scale.cpp)                              |  c++         |
+|[2D_rotation](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/2D_transformation/translate.cpp)                           |  c++         |
 
 
 | Program (2D_transformation)          | language used|
