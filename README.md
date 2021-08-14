@@ -17,9 +17,9 @@
 
 | Program (2D_transformation)          | language used|
 |--------------------------------------|--------------|
-|3D_rotation                           |  c++         |
-|3D_Scale                              |  c++         |
-|3D_rotation                           |  c++         |
+|[3D_rotation](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/3D_Transformation/rotation.cpp)                           |  c++         |
+|[3D_Scale](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/3D_Transformation/scale.cpp)                              |  c++         |
+|[3D_rotation](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/3D_Transformation/translate.cpp)                           |  c++         |
 
 
 
