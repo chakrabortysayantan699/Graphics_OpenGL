@@ -25,8 +25,8 @@
 
 | Program Name                         | language used|
 |--------------------------------------|--------------|
-|1. Bresenham's Line Drawing algo      |  c++         |
-|2. Bresenham's Circle Drawing algo    |  c++         |
+|1.[ Bresenham's Line Drawing algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/BRlineDrawing.cpp)      |  c++         |
+|2.[ Bresenham's Circle Drawing algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Bresenhams_circle.cpp)   |  c++         |
 |3. Draw Cube                          |  c++         |
 |4.Draw Traingle                       |  c++         |
 |5. DDA Line Drawing algo              |  c++         |
