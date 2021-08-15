@@ -31,8 +31,8 @@
 |4.[Draw Traingle](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GLEW_Triangle.cpp)                       |  c++         |
 |5. [DDA Line Drawing algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GL_DDA_algo.cpp)             |  c++         |
 |6. [generate Line](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GL_line.cpp)                      |  c++         |
-|7. generate Circle                    |  c++         |
-|8. Midpoint Line algo                 |  c++         |
+|7. [generate Circle](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Gl_Circle.cpp)                    |  c++         |
+|8. [Midpoint Line algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Midpoint_algo.cpp)                 |  c++         |
 |9. Draw Square                        |  c++         |
 
 
