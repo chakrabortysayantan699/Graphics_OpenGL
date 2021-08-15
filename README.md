@@ -33,7 +33,7 @@
 |6. [generate Line](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GL_line.cpp)                      |  c++         |
 |7. [generate Circle](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Gl_Circle.cpp)                    |  c++         |
 |8. [Midpoint Line algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Midpoint_algo.cpp)                 |  c++         |
-|9. Draw Square                        |  c++         |
+|9. [Draw Square ](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Square_gl.cpp )                      |  c++         |
 
 
 
