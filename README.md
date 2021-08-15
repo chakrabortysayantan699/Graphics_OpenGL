@@ -29,8 +29,8 @@
 |2.[ Bresenham's Circle Drawing algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/Bresenhams_circle.cpp)   |  c++         |
 |3.[ Draw Cube ](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GLEW_Draw_CUBE.cpp)                         |  c++         |
 |4.[Draw Traingle](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GLEW_Triangle.cpp)                       |  c++         |
-|5. DDA Line Drawing algo              |  c++         |
-|6. generate Line                      |  c++         |
+|5. [DDA Line Drawing algo](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GL_DDA_algo.cpp)             |  c++         |
+|6. [generate Line](https://github.com/chakrabortysayantan699/Graphics_OpenGL/blob/main/Codes/GL_line.cpp)                      |  c++         |
 |7. generate Circle                    |  c++         |
 |8. Midpoint Line algo                 |  c++         |
 |9. Draw Square                        |  c++         |
